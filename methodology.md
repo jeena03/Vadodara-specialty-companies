@@ -47,6 +47,8 @@ I did not start with a fixed list. The process was bottom-up, beginning with bro
 
 - DSIR database helped identify companies with recognized R&D units.
 
+- Google Patents (patents.google.com) was used to search company names to verify patent filings as a cross-check for differentiation scoring.
+
 - AI tools like Claude and Grok were used for quick summaries, but all information was cross-verified before use.
 
 ### 3. Research Process
